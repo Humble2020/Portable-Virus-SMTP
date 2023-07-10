@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2010\Projects\SearchWIF\SearchWIF\bin\Debug\SearchWIF.exe
+c:\users\dell\documents\visual studio 2010\Projects\SearchWIF\SearchWIF\bin\Debug\SearchWIF.pdb
+c:\users\dell\documents\visual studio 2010\Projects\SearchWIF\SearchWIF\bin\Debug\SearchWIF.xml
+c:\users\dell\documents\visual studio 2010\Projects\SearchWIF\SearchWIF\obj\x86\Debug\SearchWIF.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\SearchWIF\SearchWIF\obj\x86\Debug\SearchWIF.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\SearchWIF\SearchWIF\obj\x86\Debug\SearchWIF.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\SearchWIF\SearchWIF\obj\x86\Debug\SearchWIF.exe
+c:\users\dell\documents\visual studio 2010\Projects\SearchWIF\SearchWIF\obj\x86\Debug\SearchWIF.xml
+c:\users\dell\documents\visual studio 2010\Projects\SearchWIF\SearchWIF\obj\x86\Debug\SearchWIF.pdb
